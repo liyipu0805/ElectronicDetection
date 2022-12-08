@@ -1,0 +1,26 @@
+<annotation>
+	<folder>电力设备</folder>
+	<filename>IMG20221208145450.jpg</filename>
+	<path>F:\Pytorch_Datasets\电力设备检测\电力设备\IMG20221208145450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hkws</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>126</ymin>
+			<xmax>2130</xmax>
+			<ymax>1626</ymax>
+		</bndbox>
+	</object>
+</annotation>
